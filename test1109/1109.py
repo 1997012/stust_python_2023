@@ -1,9 +1,10 @@
 #1
+# demo is the function name
 def demo(name, age):
-    
-    print('#1:',name, age)
+    # print value
+    print('#1',name, age)
 
-
+# call function
 demo("Ben", 25)
 #2
 def func1(*args):
